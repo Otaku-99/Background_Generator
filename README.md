@@ -17,7 +17,7 @@ Change according to the use needs
  # Glimpse
  
  ## Glimpse 1
-   ![](images/Glimpse_1.png)
+   ![](images/Glimpse.png)
  
  ## Glimpse 2  
    ![](images/Glimpse_2.png)
