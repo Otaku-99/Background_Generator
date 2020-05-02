@@ -14,11 +14,12 @@ Change according to the use needs
  * Function to print the changes done and pass to the heading 3 as well as in background,
  * Finally pass the function to all three color inputs.
  
- # Glimpse
- 
+# Glimpse
+
  ## Glimpse 1
-   ![](images/Glimpse_1.png)
- 
+  ![](images/Glimpse.png)
  ## Glimpse 2  
-   ![](images/Glimpse_2.png)
+  ![](images/Glimpse_2.png)
     
+# Project Live
+* https://otaku-99.github.io/Background_Generator/
