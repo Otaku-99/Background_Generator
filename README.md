@@ -14,11 +14,9 @@ Change according to the use needs
  * Function to print the changes done and pass to the heading 3 as well as in background,
  * Finally pass the function to all three color inputs.
  
- # Glimpse
- 
-  ## Glimpse 1
+# Glimpse
+ ## Glimpse 1
   ![](images/Glimpse.png)
- 
-  ## Glimpse 2  
+ ## Glimpse 2  
   ![](images/Glimpse_2.png)
     
